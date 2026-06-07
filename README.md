@@ -1,6 +1,7 @@
-<img width="2752" height="1536" alt="AI-Powered_Code_Security_Scanner_Guide" src="https://github.com/user-attachments/assets/0582fa69-5186-4c8e-8846-50d454cbfd84" />
 # -Building-an-AI-Powered-Python-Security-Scanner-with-Gemini
 Build Python AI security scanner with Gemini API. Detect SQL injection, command injection vulnerabilities. Color-coded severity ratings.
+
+<img width="2752" height="1536" alt="AI-Powered_Code_Security_Scanner_Guide" src="https://github.com/user-attachments/assets/0582fa69-5186-4c8e-8846-50d454cbfd84" />
 
 # AI Security Scanner for Python
 ---
